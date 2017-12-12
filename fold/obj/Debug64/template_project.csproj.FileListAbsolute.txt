@@ -1,0 +1,11 @@
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_project.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate\fold\obj\Debug64\template_component.pdb
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\duplciateLines.dll
+C:\Users\Philipp\AppData\Roaming\Grasshopper\Libraries\duplciateLines.pdb
+C:\Users\Philipp\Desktop\GHProjectTemplate - Copy\fold\obj\Debug64\template_project.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Desktop\GHProjectTemplate - Copy\fold\obj\Debug64\duplciateLines.Properties.Resources.resources
+C:\Users\Philipp\Desktop\GHProjectTemplate - Copy\fold\obj\Debug64\template_project.csproj.GenerateResource.Cache
+C:\Users\Philipp\Desktop\GHProjectTemplate - Copy\fold\obj\Debug64\duplciateLines.dll
+C:\Users\Philipp\Desktop\GHProjectTemplate - Copy\fold\obj\Debug64\duplciateLines.pdb
